@@ -13,8 +13,12 @@
 
 <%--	acesta este un action form care inregistreaza un user name--%>
 	<form action="user" method="post">
-		<input type="text" name="userName"><br> <input
-			type="submit" value="Login">
+		<p>Username: </p> <input type="text" name="userName">
+		<p>email: </p> <input type="email" name="email">
+		<p>Phone Number: </p> <input type="tel" name="phone">
+		<p>Birth Date: </p> <input type="date" name="dateOfBirth">
+		<br><br>
+		 <input type="submit" value="Login">
 	</form>
 </body>
 </html>

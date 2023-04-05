@@ -8,5 +8,9 @@
 </head>
 <body>
 <h3>Salut ${userName}</h3>
+<p>Username: ${userName}</p> <
+<p>email: ${email}</p>
+<p>Phone Number: ${phone}</p>
+<p>Birth Date:${dateOfBirth} </p>
 </body>
 </html>
