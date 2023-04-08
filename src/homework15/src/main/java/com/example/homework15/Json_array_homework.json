@@ -1,0 +1,38 @@
+[
+  {
+    "courseName": "Java Full Stack & Frameworks1",
+    "trainer": {
+      "name": "Dan Popescu",
+      "zoomId": 123321
+    },
+    "online": true,
+    "courseDays": [
+      {
+        "day": "Monday",
+        "startingHour": "18:20"
+      },
+      {
+        "day": "Wednesday",
+        "startingHour": "18:20"
+      }
+    ]
+  },
+  {
+    "courseName": "Java Software Development2",
+    "trainer": {
+      "name": "Ion Popescu",
+      "zoomId": 987654
+    },
+    "online": true,
+    "courseDays": [
+      {
+        "day": "Tuesday",
+        "startingHour": "18:20"
+      },
+      {
+        "day": "Thursday",
+        "startingHour": "18:20"
+      }
+    ]
+  }
+]
