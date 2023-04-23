@@ -1,0 +1,4 @@
+com.example.homework16.Homework16Application=org.springframework.stereotype.Component,org.springframework.boot.SpringBootConfiguration
+com.example.homework16.controller.UserController=org.springframework.stereotype.Component
+com.example.homework16.service.UserServices=org.springframework.stereotype.Component
+com.example.repository.UserRepository=org.springframework.stereotype.Component
