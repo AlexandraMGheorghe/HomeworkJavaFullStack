@@ -1,0 +1,4 @@
+root: C:\Users\alexa\IdeaProjects\homework29 
+path: C:\Program Files\nodejs 
+arch: 64 
+proxy: none
